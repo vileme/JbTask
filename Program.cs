@@ -3,7 +3,7 @@ using System.IO;
 using Mono.Cecil;
 using Mono.Cecil.Cil;
 
-namespace jbTaskAss
+namespace jbTaskAssembly
 {
     static class Program
     {
