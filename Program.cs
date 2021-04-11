@@ -11,7 +11,7 @@ namespace jbTaskAss
         {
             if (args.Length != 2)
             {
-                Console.WriteLine("usage : jbTaskAssembly to .dll> <path to output directory>");
+                Console.WriteLine("usage : <jbTaskAssembly to .dll> <path to output directory>");
                 return;
             }
 
